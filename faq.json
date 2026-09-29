@@ -1,0 +1,214 @@
+[
+    {
+        "question": "When are the semester exams?",
+        "answer": "Semester exams are conducted according to the academic calendar."
+    },
+    {
+        "question": "When will the semester exams start?",
+        "answer": "Semester exams start on the dates announced in the examination timetable."
+    },
+    {
+        "question": "Where can I find the exam timetable?",
+        "answer": "The exam timetable is available on the college examination portal."
+    },
+    {
+        "question": "How can I check my exam schedule?",
+        "answer": "You can check your exam schedule on the college examination portal."
+    },
+    {
+        "question": "When will the exam timetable be released?",
+        "answer": "The exam timetable is released by the examination department before the examinations."
+    },
+    {
+        "question": "How can I download my hall ticket?",
+        "answer": "You can download your hall ticket from the college examination portal."
+    },
+    {
+        "question": "Where can I get my hall ticket?",
+        "answer": "Your hall ticket is available on the college examination portal."
+    },
+    {
+        "question": "When will the hall ticket be available?",
+        "answer": "The hall ticket is made available before the examination through the examination portal."
+    },
+    {
+        "question": "What should I do if I lose my hall ticket?",
+        "answer": "Contact the examination office immediately if you lose your hall ticket."
+    },
+    {
+        "question": "Can I attend the exam without a hall ticket?",
+        "answer": "You must carry a valid hall ticket to attend the examination."
+    },
+    {
+        "question": "How do I register for the examination?",
+        "answer": "You can register for the examination through the college examination portal."
+    },
+    {
+        "question": "How can I register for semester exams?",
+        "answer": "Semester exam registration can be completed through the examination portal."
+    },
+    {
+        "question": "When does exam registration start?",
+        "answer": "Exam registration starts on the date announced by the examination department."
+    },
+    {
+        "question": "What is the last date for exam registration?",
+        "answer": "The last date for exam registration is announced by the examination department."
+    },
+    {
+        "question": "Can I register after the deadline?",
+        "answer": "Late examination registration is subject to the rules of the examination department."
+    },
+    {
+        "question": "How can I pay the examination fee?",
+        "answer": "You can pay the examination fee through the college examination portal."
+    },
+    {
+        "question": "What is the examination fee?",
+        "answer": "The examination fee depends on the course and examination requirements."
+    },
+    {
+        "question": "When should I pay the exam fee?",
+        "answer": "You must pay the examination fee before the deadline announced by the college."
+    },
+    {
+        "question": "What happens if I do not pay the exam fee?",
+        "answer": "Failure to pay the examination fee may prevent examination registration."
+    },
+    {
+        "question": "What are the examination rules?",
+        "answer": "Students must follow all instructions issued by the examination department."
+    },
+    {
+        "question": "What should I bring to the examination hall?",
+        "answer": "You must bring your hall ticket and permitted examination materials."
+    },
+    {
+        "question": "Can I bring my mobile phone to the exam hall?",
+        "answer": "Mobile phones are not permitted in the examination hall."
+    },
+    {
+        "question": "What items are allowed in the exam hall?",
+        "answer": "Only items permitted by the examination department are allowed in the exam hall."
+    },
+    {
+        "question": "What time should I reach the exam hall?",
+        "answer": "You should reach the exam hall before the reporting time mentioned on the timetable."
+    },
+    {
+        "question": "Can I enter the exam hall late?",
+        "answer": "Late entry is permitted only according to the examination department's rules."
+    },
+    {
+        "question": "What happens if I miss an exam?",
+        "answer": "If you miss an exam, contact the examination office for further instructions."
+    },
+    {
+        "question": "What happens if I am absent for an exam?",
+        "answer": "You should contact the examination office if you are absent for an examination."
+    },
+    {
+        "question": "What is a supplementary exam?",
+        "answer": "A supplementary exam gives eligible students another opportunity to complete a failed examination."
+    },
+    {
+        "question": "How can I apply for a supplementary exam?",
+        "answer": "You can apply for a supplementary exam through the examination portal."
+    },
+    {
+        "question": "What is an arrear exam?",
+        "answer": "An arrear exam allows eligible students to clear previously failed subjects."
+    },
+    {
+        "question": "How can I register for arrear exams?",
+        "answer": "You can register for arrear exams through the examination portal."
+    },
+    {
+        "question": "How can I apply for revaluation?",
+        "answer": "You can apply for revaluation through the examination portal."
+    },
+    {
+        "question": "What is the revaluation procedure?",
+        "answer": "Submit the revaluation application through the examination portal before the deadline."
+    },
+    {
+        "question": "When can I apply for revaluation?",
+        "answer": "You can apply for revaluation after results are published and before the application deadline."
+    },
+    {
+        "question": "Is there a fee for revaluation?",
+        "answer": "A revaluation fee is charged according to the examination department's fee structure."
+    },
+    {
+        "question": "How can I check my exam results?",
+        "answer": "You can check your examination results on the college examination portal."
+    },
+    {
+        "question": "When will exam results be released?",
+        "answer": "Exam results are released after the evaluation process is completed."
+    },
+    {
+        "question": "Where can I see my semester results?",
+        "answer": "Semester results are available on the college examination portal."
+    },
+    {
+        "question": "What should I do if there is an error in my result?",
+        "answer": "Contact the examination office if you find an error in your examination result."
+    },
+    {
+        "question": "How can I get my mark sheet?",
+        "answer": "You can obtain your mark sheet through the examination or academic office."
+    },
+    {
+        "question": "What is internal assessment?",
+        "answer": "Internal assessment evaluates your academic performance during the semester."
+    },
+    {
+        "question": "When are internal exams conducted?",
+        "answer": "Internal exams are conducted on dates announced by the respective department."
+    },
+    {
+        "question": "What happens if I miss an internal exam?",
+        "answer": "Contact your department if you miss an internal examination."
+    },
+    {
+        "question": "What is a practical examination?",
+        "answer": "A practical examination evaluates your practical knowledge and laboratory skills."
+    },
+    {
+        "question": "When are practical exams conducted?",
+        "answer": "Practical exams are conducted on dates announced by the respective department."
+    },
+    {
+        "question": "Where are practical exams conducted?",
+        "answer": "Practical exams are conducted in the laboratory or venue assigned by the department."
+    },
+    {
+        "question": "Who should I contact for exam-related problems?",
+        "answer": "Contact the college examination office for exam-related problems."
+    },
+    {
+        "question": "How can I contact the examination department?",
+        "answer": "You can contact the examination department through the official college contact details."
+    },
+    {
+        "question": "What is the passing requirement?",
+        "answer": "The passing requirement is based on the academic regulations of your course."
+    },
+    {
+        "question": "What happens if I fail a subject?",
+        "answer": "You can appear for the applicable arrear or supplementary examination."
+    },
+    {
+        "question": "Can I improve my marks?",
+        "answer": "Improvement examinations are available according to the academic regulations."
+    },
+    {
+        "question": "What is a grade card?",
+        "answer": "A grade card shows the grades or marks obtained in your courses."
+    },
+    {
+        "question": "How can I get my examination certificate?",
+        "answer": "You can obtain your examination certificate through the examination or academic office."
+    }
+]
